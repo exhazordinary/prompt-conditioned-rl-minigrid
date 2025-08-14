@@ -1,6 +1,6 @@
 # MiniGrid RL Project
 
-This project provides a reinforcement learning (RL) framework for training and evaluating agents in MiniGrid environments using Gymnasium. It includes scripts for running environments, training agents, evaluating performance, and supporting model and utility code.
+This project provides a reinforcement learning (RL) framework for training and evaluating agents in MiniGrid environments using Gymnasium. It includes scripts for running environments, training agents, evaluating performance, and supporting model and utility code. Yeah
 
 ## Features
 
