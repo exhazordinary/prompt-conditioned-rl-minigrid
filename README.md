@@ -12,7 +12,7 @@ This project provides a reinforcement learning (RL) framework for training and e
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/exhazordinary/prompt-conditioned-rl-minigrid.git
    cd prompt_rl_project
    ```
 
